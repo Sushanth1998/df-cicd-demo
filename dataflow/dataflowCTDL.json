@@ -28,7 +28,7 @@
 			],
 			"scriptLines": [
 				"parameters{",
-				"     Size as string",
+				"     Size as integer (ItemsPurchasedLast12Months)",
 				"}",
 				"source(output(",
 				"          UserId as integer,",
