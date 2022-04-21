@@ -15,6 +15,13 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
+					"dataflow": {
+						"referenceName": "dataflowCTDL",
+						"type": "DataFlowReference",
+						"parameters": {
+							"parameter1": "Size"
+						}
+					},
 					"compute": {
 						"coreCount": 8,
 						"computeType": "General"
