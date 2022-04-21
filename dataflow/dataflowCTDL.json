@@ -28,7 +28,7 @@
 			],
 			"scriptLines": [
 				"parameters{",
-				"     parameter1 as string (Size),",
+				"     parameter1 as string,",
 				"     Size as string",
 				"}",
 				"source(output(",
